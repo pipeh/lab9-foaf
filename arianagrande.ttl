@@ -25,7 +25,7 @@
    foaf:age 29 ; # it would be better to put date of birth to not have to update every birthday, but hey :)
    foaf:img <https://upload.wikimedia.org/wikipedia/commons/d/dd/Ariana_Grande_Grammys_Red_Carpet_2020.png> ;
    foaf:homepage <https://www.instagram.com/arianagrande/> ;   
-   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ag> ;
+   foaf:knows <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#ag>, <https://ctorresg.cl/foaf.ttl#ct>, <http://raw.githubusercontent.com/Myrkshorgh/Watos/main/foaf.ttl#uf>, <http://users.dcc.uchile.cl/~lcarrasc/FOAF_PROFILE/foaf_prof.ttl#LCMP> ;
    foaf:interest dbr:Semantic_Web , dbr:Singing, dbr:Cooking;
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:hasSpiritAnimal dbr:Dog ;
