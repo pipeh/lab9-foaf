@@ -30,6 +30,7 @@
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:hasSpiritAnimal dbr:Dog ;
    social:hasFavouritePlatonicSolid dbr:Octahedron ;
+   social:likesMovie dbr:The_Princess_Diaries , dbr:High_School_Musical , dbr:Bee_Movie;
    foaf:myersBriggs "ISFJ" ;
    foaf:nick "Ari" .
    
